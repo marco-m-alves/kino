@@ -1,6 +1,6 @@
 var videoId, url;
 
-url = 'https://googledrive.com/host/0B_3SNhsAHodsa0JmMXZxUURFcjg/index.html#/';
+url = 'https://kinoplayerapp.appspot.com/#/';
 
 function listener(request, sender, sendResponse) {
 	chrome.pageAction.show(sender.tab.id);
